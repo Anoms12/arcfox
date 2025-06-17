@@ -3,11 +3,12 @@
     "name": "Arfox",
     "description": "Make your production flow",
     "js": true,
+    "style": "https://github.com/Anoms12/arcfox/tree/main/src/components",
     "homepage": "https://github.com/betterbrowser/arcfox",
     "readme": "https://raw.githubusercontent.com/betterbrowser/arcfox/refs/heads/main/README.md",
     "image": "https://raw.githubusercontent.com/betterbrowser/arcfox/main/image.png",
     "author": "LuanderFarias",
-    "version": "2.0.0",
+    "version": "2.5.4",
     "tags": [
         "Arc Browser",
         "Firefox",
