@@ -1,0 +1,20 @@
+{
+    "id": "arcfox",
+    "name": "Arfox",
+    "description": "Make your production flow",
+    "js": true,
+    "homepage": "https://github.com/betterbrowser/arcfox",
+    "readme": "https://raw.githubusercontent.com/betterbrowser/arcfox/refs/heads/main/README.md",
+    "image": "https://raw.githubusercontent.com/betterbrowser/arcfox/main/image.png",
+    "author": "LuanderFarias",
+    "version": "2.0.0",
+    "tags": [
+        "Arc Browser",
+        "Firefox",
+        "Flow",
+        "12th"
+    ],
+    "createdAt": "2025-06-17",
+    "updatedAt": "2025-06-17",
+    "fork": ["firefox"]
+}
