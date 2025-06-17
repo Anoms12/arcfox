@@ -2,7 +2,6 @@
     "id": "arcfox",
     "name": "Arfox",
     "description": "Make your production flow",
-    "js": true,
     "style": "https://github.com/Anoms12/arcfox/tree/main/src/components",
     "homepage": "https://github.com/betterbrowser/arcfox",
     "readme": "https://raw.githubusercontent.com/betterbrowser/arcfox/refs/heads/main/README.md",
